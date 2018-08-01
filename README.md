@@ -10,3 +10,5 @@ v1:
 + body-parser - Parse HTTP Request Bodies
 
 v2:
++ MongoDB     - JS Non-Relational Database
++ Mongoose    - MongoDB ODM for Node.js
