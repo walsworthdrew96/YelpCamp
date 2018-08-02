@@ -12,3 +12,8 @@ v1:
 v2:
 + MongoDB     - JS Non-Relational Database
 + Mongoose    - MongoDB ODM for Node.js
+
+v3:
++ Campground Mongoose Model
++ Comment Mongoose Model
++ seedDB() database seeding function
