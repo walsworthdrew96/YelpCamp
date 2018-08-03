@@ -17,3 +17,6 @@ v3:
 + Campground Mongoose Model
 + Comment Mongoose Model
 + seedDB() database seeding function
+
+v4:
++ Comment Viewing/Creating Functionality
