@@ -34,3 +34,8 @@ v6:
 + Added Register Functionality
 + Added Login Functionality
 + Added Logout Functionality
+
+v7:
++ Moved /data/db to root folder for this version onward
++ Refactored Routes to use Express Router
++ Put Routes in separate Modules
