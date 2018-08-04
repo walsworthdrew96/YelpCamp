@@ -25,3 +25,12 @@ v5:
 + Added Campground Show Page Sidebar
 + Added "public" directory
 + Updated styling on campground index and show pages
+
+v6:
++ Passport
++ Passport Local
++ Passport Local Mongoose
++ Express Session
++ Added Register Functionality
++ Added Login Functionality
++ Added Logout Functionality
