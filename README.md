@@ -20,3 +20,8 @@ v3:
 
 v4:
 + Comment Viewing/Creating Functionality
+
+v5:
++ Added Campground Show Page Sidebar
++ Added "public" directory
++ Updated styling on campground index and show pages
